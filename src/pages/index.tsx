@@ -110,7 +110,7 @@ export default function Home() {
       </section>
       <section className={styles["social"]}>
         <Container>
-          <h3 className={styles["social-title"]}>
+        <h3 className={`${styles["social-title"]} ${styles["custom-text-color"]}`}>
             Your favourite Social Media is not left out
           </h3>
           <div className={styles["social-icons"]}>

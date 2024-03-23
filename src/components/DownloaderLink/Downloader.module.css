@@ -15,7 +15,7 @@
 .download-text {
     font-size: 1.3rem;
     line-height: 1.75rem;
-    color: var(--gray-80);
+    color: white;
     transition: transform var(--fast) ease-out;
 }
 

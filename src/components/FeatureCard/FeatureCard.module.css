@@ -17,7 +17,7 @@
   justify-content: center;
   background-color: var(--white);
   border-radius: 0.45rem;
-  box-shadow: 0 1px 10px rgba(20, 5, 5, 0.04);
+  box-shadow: 0 1px 10px rgba(210, 104, 104, 0.04);
 }
 
 .feature-card-icon svg {
